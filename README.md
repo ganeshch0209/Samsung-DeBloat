@@ -50,4 +50,21 @@ pm uninstall --user 0 com.wsomacp
 pm uninstall --user 0 com.samsung.android.samsungpassautofill
 pm uninstall --user 0 com.samsung.android.authfw
 pm uninstall --user 0 com.samsung.android.samsungpass
+pm uninstall --user 0 com.android.bips
+pm uninstall --user 0 com.google.android.printservice.recommendation
+pm uninstall --user 0 com.android.printspooler
+pm uninstall --user 0 com.boxer.app
+pm uninstall --user 0 com.samsung.android.wellbeing
+pm uninstall --user 0 com.samsung.android.da.daagent
+pm uninstall --user 0 com.samsung.android.service.livedrawing
+pm uninstall --user 0 com.samsung.android.aremoji
+pm uninstall --user 0 com.sec.android.mimage.avatarstickers
+pm uninstall --user 0 com.samsung.android.emojiupdater
+pm uninstall --user 0 com.samsung.android.hmt.vrsvc
+pm uninstall --user 0 com.samsung.android.app.vrsetupwizardstub
+pm uninstall --user 0 com.samsung.android.hmt.vrshell
+pm uninstall --user 0 com.google.vr.vrcore
+pm uninstall --user 0 com.samsung.android.kidsinstaller
+pm uninstall --user 0 com.samsung.android.app.camera.sticker.facearavatar.preload
+pm uninstall --user 0 com.sec.android.app.kidshome
 
