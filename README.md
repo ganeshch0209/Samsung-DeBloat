@@ -167,6 +167,10 @@ pm uninstall --user 0 com.gsn.android.tripeaks
 pm uninstall --user 0 com.foxnextgames.m3
 pm uninstall --user 0 com.audible.application
 pm uninstall --user 0 com.microsoft.skydrive
+pm uninstall --user 0 com.sec.android.easyMover
+pm uninstall --user 0 com.samsung.ecomm.global.in
+pm uninstall --user 0 com.opera.max.oem
+
 
 
 
