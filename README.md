@@ -118,5 +118,27 @@ pm uninstall --user 0 com.android.providers.downloads.ui
 pm uninstall --user 0 com.android.providers.partnerbookmarks
 pm uninstall --user 0 com.android.sharedstoragebackup
 pm uninstall --user 0 com.android.vpndialogs
+pm uninstall --user 0 com.facebook.katana
+pm uninstall --user 0 com.facebook.system
+pm uninstall --user 0 com.facebook.appmanager
+pm uninstall --user 0 com.facebook.services
+pm uninstall --user 0 com.google.android.apps.docs
+pm uninstall --user 0 com.google.android.apps.maps
+pm uninstall --user 0 com.google.android.apps.photos
+pm uninstall --user 0 com.google.android.apps.tachyon
+pm uninstall --user 0 com.google.android.apps.wellbeing
+pm uninstall --user 0 com.google.android.feedback
+pm uninstall --user 0 com.google.android.gm
+pm uninstall --user 0 com.google.android.googlequicksearchbox
+pm uninstall --user 0 com.google.android.inputmethod.latin
+pm uninstall --user 0 com.google.android.marvin.talkback
+pm uninstall --user 0 com.google.android.music
+pm uninstall --user 0 com.google.android.printservice.recommendation
+pm uninstall --user 0 com.google.android.syncadapters.calendar
+pm uninstall --user 0 com.google.android.tts
+pm uninstall --user 0 com.google.android.videos
+pm uninstall --user 0 com.google.android.youtube
+pm uninstall --user 0 com.google.ar.lens
+
 
 
