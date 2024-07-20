@@ -47,4 +47,7 @@ pm uninstall --user 0 com.samsung.android.svoiceime
 pm uninstall --user 0 com.samsung.android.beaconmanager
 pm uninstall --user 0 com.samsung.android.email.provider
 pm uninstall --user 0 com.wsomacp
+pm uninstall --user 0 com.samsung.android.samsungpassautofill
+pm uninstall --user 0 com.samsung.android.authfw
+pm uninstall --user 0 com.samsung.android.samsungpass
 
