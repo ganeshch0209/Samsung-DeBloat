@@ -67,4 +67,23 @@ pm uninstall --user 0 com.google.vr.vrcore
 pm uninstall --user 0 com.samsung.android.kidsinstaller
 pm uninstall --user 0 com.samsung.android.app.camera.sticker.facearavatar.preload
 pm uninstall --user 0 com.sec.android.app.kidshome
+pm uninstall --user 0 com.samsung.android.game.gamehome
+pm uninstall --user 0 com.enhance.gameservice
+pm uninstall --user 0 com.samsung.android.game.gametools
+pm uninstall --user 0 com.samsung.android.game.gos
+pm uninstall --user 0 com.samsung.android.gametuner.thin
+pm uninstall --user 0 com.samsung.android.app.ledbackcover
+pm uninstall --user 0 com.sec.android.cover.ledcover
+pm uninstall --user 0 com.sec.android.desktopmode.uiservice
+pm uninstall --user 0 com.samsung.desktopsystemui
+pm uninstall --user 0 com.sec.android.app.desktoplauncher
+pm uninstall --user 0 com.vcast.mediamanager
+pm uninstall --user 0 com.samsung.vmmhux
+pm uninstall --user 0 com.vzw.hss.myverizon
+pm uninstall --user 0 com.asurion.android.verizon.vms
+pm uninstall --user 0 com.motricity.verizon.ssodownloadable
+pm uninstall --user 0 com.vzw.hs.android.modlite
+pm uninstall --user 0 com.samsung.vvm
+pm uninstall --user 0 com.vznavigator.a34x
+
 
