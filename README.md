@@ -139,6 +139,35 @@ pm uninstall --user 0 com.google.android.tts
 pm uninstall --user 0 com.google.android.videos
 pm uninstall --user 0 com.google.android.youtube
 pm uninstall --user 0 com.google.ar.lens
+pm uninstall --user 0 com.cnn.mobile.android.phone.edgepanel
+pm uninstall --user 0 com.samsung.android.service.peoplestripe
+pm uninstall --user 0 com.samsung.android.app.sbrowseredge
+pm uninstall --user 0 com.samsung.android.app.appsedge
+pm uninstall --user 0 com.gocro.smartnews.android
+pm uninstall --user 0 com.synchronoss.dcs.att.r2g
+pm uninstall --user 0 com.wavemarket.waplauncher
+pm uninstall --user 0 com.pandora.android
+pm uninstall --user 0 com.sec.penup
+pm uninstall --user 0 com.samsung.android.service.livedrawing
+pm uninstall --user 0 com.linkedin.android
+pm uninstall --user 0 com.hunge.app
+pm uninstall --user 0 com.greatbigstory.greatbigstory
+pm uninstall --user 0 com.android.documentsui
+pm uninstall --user 0 com.drivemode
+pm uninstall --user 0 com.samsung.android.app.contacts
+pm uninstall --user 0 com.samsung.android.calendar
+pm uninstall --user 0 com.cnn.mobile.android.phone
+pm uninstall --user 0 com.bleacherreport.android.teamstream
+pm uninstall --user 0 com.aetherpal.device
+pm uninstall --user 0 com.google.android.dialer
+pm uninstall --user 0 com.wb.goog.got.conquest
+pm uninstall --user 0 com.wb.goog.dcuniverse
+pm uninstall --user 0 com.innogames.foeandroid
+pm uninstall --user 0 com.playstudios.popslots
+pm uninstall --user 0 com.gsn.android.tripeaks
+pm uninstall --user 0 com.foxnextgames.m3
+pm uninstall --user 0 com.audible.application
+pm uninstall --user 0 com.microsoft.skydrive
 
 
 
