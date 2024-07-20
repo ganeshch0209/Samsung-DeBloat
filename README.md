@@ -44,7 +44,6 @@ pm uninstall --user 0 com.samsung.android.app.aodservice
 pm uninstall --user 0 com.sec.android.app.dexonpc
 pm uninstall --user 0 com.samsung.android.ardrawing
 pm uninstall --user 0 com.samsung.android.svoiceime
-pm uninstall --user 0 com.samsung.android.beaconmanager
 pm uninstall --user 0 com.samsung.android.email.provider
 pm uninstall --user 0 com.wsomacp
 pm uninstall --user 0 com.samsung.android.samsungpassautofill
