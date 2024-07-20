@@ -27,7 +27,6 @@ pm uninstall --user 0 com.samsung.android.voc
 pm uninstall --user 0 com.sec.android.app.popupcalculator
 pm uninstall --user 0 com.sec.android.splitsound
 pm uninstall --user 0 com.mobeam.barcodeService
-pm uninstall --user 0 com.samsung.android.app.dressroom
 pm uninstall --user 0 com.samsung.android.scloud
 pm uninstall --user 0 com.samsung.android.sdk.handwriting
 pm uninstall --user 0 com.samsung.android.sdk.professionalaudio.utility.jammonitor
