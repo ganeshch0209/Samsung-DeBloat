@@ -106,9 +106,6 @@ pm uninstall --user 0 com.android.mms.service
 pm uninstall --user 0 com.android.printspooler
 pm uninstall --user 0 com.android.statementservice
 pm uninstall --user 0 com.android.stk
-pm uninstall --user 0 com.android.wallpaper.livepicker
-pm uninstall --user 0 com.android.wallpaperbackup
-pm uninstall --user 0 com.android.wallpapercropper
 pm uninstall --user 0 com.android.providers.downloads.ui
 pm uninstall --user 0 com.android.providers.partnerbookmarks
 pm uninstall --user 0 com.android.sharedstoragebackup
