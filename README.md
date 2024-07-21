@@ -72,7 +72,6 @@ pm uninstall --user 0 com.samsung.android.gametuner.thin
 pm uninstall --user 0 com.samsung.android.app.ledbackcover
 pm uninstall --user 0 com.sec.android.cover.ledcover
 pm uninstall --user 0 com.sec.android.desktopmode.uiservice
-pm uninstall --user 0 com.samsung.desktopsystemui
 pm uninstall --user 0 com.sec.android.app.desktoplauncher
 pm uninstall --user 0 com.vcast.mediamanager
 pm uninstall --user 0 com.samsung.vmmhux
