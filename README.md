@@ -12,7 +12,6 @@ pm uninstall --user 0 com.dsi.ant.service.socket
 pm uninstall --user 0 com.dsi.ant.plugins.antplus
 pm uninstall --user 0 com.samsung.android.messaging
 pm uninstall --user 0 com.sec.android.easyonehand
-pm uninstall --user 0 com.samsung.android.drivelink.stub
 pm uninstall --user 0 com.sec.android.widgetapp.samsungapps
 pm uninstall --user 0 com.sec.android.app.sbrowser
 pm uninstall --user 0 com.samsung.android.mateagent
@@ -81,12 +80,10 @@ pm uninstall --user 0 com.vzw.hss.myverizon
 pm uninstall --user 0 com.asurion.android.verizon.vms
 pm uninstall --user 0 com.motricity.verizon.ssodownloadable
 pm uninstall --user 0 com.vzw.hs.android.modlite
-pm uninstall --user 0 com.samsung.vvm
 pm uninstall --user 0 com.vznavigator.a34x
 pm uninstall --user 0 com.att.dh
 pm uninstall --user 0 com.att.dtv.shaderemote
 pm uninstall --user 0 com.att.tv
-pm uninstall --user 0 com.samsung.attvvm
 pm uninstall --user 0 com.att.myWireless
 pm uninstall --user 0 com.asurion.android.protech.att
 pm uninstall --user 0 com.att.android.attsmartwifi
