@@ -22,7 +22,7 @@ pm uninstall --user 0 com.sec.android.app.sbrowser
 pm uninstall --user 0 com.samsung.android.mateagent
 pm uninstall --user 0 com.sec.android.easyMover.Agent
 pm uninstall --user 0 com.samsung.android.app.watchmanagerstub
-pm uninstall --user 0 com.sec.android.daemonapp
+#pm uninstall --user 0 com.sec.android.daemonapp
 pm uninstall --user 0 com.samsung.android.app.social
 pm uninstall --user 0 com.samsung.ecomm.global
 pm uninstall --user 0 com.sec.android.app.voicenote
